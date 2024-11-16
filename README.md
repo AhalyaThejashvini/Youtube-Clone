@@ -15,5 +15,3 @@ A simple YouTube Clone frontend designed using **HTML** and **CSS**. This projec
 ## Technologies Used
 - **HTML**: For structuring the layout.
 - **CSS**: For styling and responsiveness.
-
-## File Structure
